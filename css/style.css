@@ -1,0 +1,42 @@
+
+#container {
+  border: 1px solid #003333;
+  line-height: 12px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #bcf6f9;
+}
+
+h3 {
+  font-family: 'Titillium Web', sans-serif;
+  color: #ffb51c;
+}
+.buttons{
+  margin: 30px;
+}
+
+button {
+  width: 200px;
+  color: #fff;
+  background-color: #15b3ba;
+  border: none;
+  padding: 10px 0;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.2em;
+  border-radius: 5px;
+}
+
+button:hover{
+  background-color: #226666;
+}
+
+.unit{
+  background-color: lightgray;
+  height: 10px;
+  width: 10px;
+  margin: 1px;
+  display: inline-block;
+}
+
+
+
